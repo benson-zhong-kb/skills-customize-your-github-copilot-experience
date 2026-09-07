@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-a-fastapi-api",
+      "title": "Testing a FastAPI REST API",
+      "description": "Write standard-library unit tests for the FastAPI task-tracking API.",
+      "path": "assignments/testing-a-fastapi-api",
+      "dueDate": "2026-09-14",
+      "attachments": [
+        {
+          "name": "Test Starter Code",
+          "file": "test_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
